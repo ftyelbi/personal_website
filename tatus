@@ -1,0 +1,54 @@
+[33mcommit edc75d22977bad4cf814436b6f5e77cb1787d9ba[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/skills_page[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: a096166 86909fb
+Author: ftyelbi <“ftyelbi@gmail.com”>
+Date:   Sat Feb 15 17:37:50 2025 +0000
+
+    fixed merge conflicts
+
+[33mcommit 86909fbb7d8b85d1de2252e414a0ab41b2971fa2[m[33m ([m[1;31morigin/feature/portfolio_page[m[33m, [m[1;32mfeature/portfolio_page[m[33m)[m
+Author: ftyelbi <“ftyelbi@gmail.com”>
+Date:   Sat Feb 15 17:05:38 2025 +0000
+
+    added portfolio page
+
+[33mcommit a096166f6f6203c955c310c60781d3660eebc3b0[m[33m ([m[1;32mfeature/contact_link[m[33m)[m
+Author: ftyelbi <“ftyelbi@gmail.com”>
+Date:   Sat Feb 15 16:57:37 2025 +0000
+
+    Added contact page link to home page
+
+[33mcommit b74de79e4a13b34c5fc4ebe19f0cc5e739bfff94[m[33m ([m[1;31morigin/feature/contact_page[m[33m, [m[1;32mfeature/contact_page[m[33m)[m
+Author: ftyelbi <“ftyelbi@gmail.com”>
+Date:   Sat Feb 15 16:30:32 2025 +0000
+
+    added social media handles
+
+[33mcommit 6c25cf2e7b95cb13cf26f62400b2ea311c805683[m
+Author: ftyelbi <“ftyelbi@gmail.com”>
+Date:   Sat Feb 15 16:17:21 2025 +0000
+
+    added contact page
+
+[33mcommit 2be92616fc016d6000c0e9247ff83da4ad5fee32[m
+Author: ftyelbi <“ftyelbi@gmail.com”>
+Date:   Sat Feb 15 14:45:14 2025 +0000
+
+    directory structure updated
+
+[33mcommit 575aef5177eea2ef14e876782857021aeafe459d[m
+Author: ftyelbi <“ftyelbi@gmail.com”>
+Date:   Sat Feb 15 12:44:20 2025 +0000
+
+    Personalised index page
+
+[33mcommit 085c5c783711b4f9569c63d2dc4a17743e579249[m
+Author: Ftyelbi <“ftyelbi@gmail.com”>
+Date:   Sat Feb 15 12:18:09 2025 +0000
+
+    Created index page
+
+[33mcommit 7072c3e7883feddfec7ca055d52e35e12f25d065[m
+Author: Ftyelbi <“ftyelbi@gmail.com”>
+Date:   Sat Feb 15 12:11:36 2025 +0000
+
+    readme updated
